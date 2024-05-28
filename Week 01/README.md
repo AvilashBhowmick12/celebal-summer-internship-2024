@@ -40,5 +40,5 @@ Softwares being used, installed for the tasks , as well as respective pre-availa
 | :-------------------------------------------------------- |
 | `All the SQL Queries are taken as assumption as, none of the instructed Questions given to perform the queries were correct with respect to the`**`AdventureWorks Sample Database`**`    |
 
-- [SQL QUERY]()
+- [SQL QUERY](https://github.com/AvilashBhowmick12/celebal-summer-internship-2024/blob/main/Week%2001/SQL_WEEK01.sql)
 
